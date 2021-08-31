@@ -1,0 +1,13 @@
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\bin\Debug\Tela01.exe.config
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\bin\Debug\Tela01.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\bin\Debug\Tela01.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\PDV.csproj.AssemblyReference.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.t0002Cadastro.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.t0001PDVSystem.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.Properties.Resources.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\PDV.csproj.GenerateResource.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\PDV.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.exe
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.pdb
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Tela01.t0007Consulta.resources
+C:\Users\miche\Desktop\OPE PdV\Arquivos VisualS\Tela01\Tela01\obj\Debug\Cadastro.cadastro_produto.resources
